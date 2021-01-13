@@ -1,7 +1,7 @@
 {
   "name": "UdemyJan2021_SharathRaju",
   "description": "Blank Process",
-  "main": "Main.xaml",
+  "main": "Robot1_RPAChallenge.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.9.3]",
     "UiPath.Mail.Activities": "[1.9.3]",
@@ -44,6 +44,12 @@
     {
       "filePath": "Main.xaml",
       "uniqueId": "e8c63671-6b78-41c7-abd6-88fcc5a0d8b3",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Robot1_RPAChallenge.xaml",
+      "uniqueId": "48311eab-f048-4023-9703-79b0b9fe521a",
       "input": [],
       "output": []
     }
