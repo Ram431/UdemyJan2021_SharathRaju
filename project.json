@@ -1,12 +1,13 @@
 {
   "name": "UdemyJan2021_SharathRaju",
   "description": "Blank Process",
-  "main": "Robot1_RPAChallenge.xaml",
+  "main": "Robot3_SalesReportGeneration.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.9.3]",
     "UiPath.Mail.Activities": "[1.9.3]",
     "UiPath.System.Activities": "[20.10.1]",
-    "UiPath.UIAutomation.Activities": "[20.10.6]"
+    "UiPath.UIAutomation.Activities": "[20.10.6]",
+    "UiPath.Word.Activities": "[1.6.0-preview]"
   },
   "webServices": [],
   "entitiesStores": [],
@@ -50,6 +51,12 @@
     {
       "filePath": "Robot1_RPAChallenge.xaml",
       "uniqueId": "48311eab-f048-4023-9703-79b0b9fe521a",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Robot3_SalesReportGeneration.xaml",
+      "uniqueId": "6e13c138-643e-4cd3-bfb1-3b41ba85f3e4",
       "input": [],
       "output": []
     }
